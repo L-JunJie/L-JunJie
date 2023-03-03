@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小梁同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
@@ -38,9 +38,9 @@
   
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
-<p>&emsp;&emsp;大家好，我是小孙同学。</p>
-<p>&emsp;&emsp;目前就读于安徽理工大学地理信息科学专业。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
+<p>&emsp;&emsp;大家好，我是小梁同学。</p>
+<p>&emsp;&emsp;目前就读于南京师范大学电子信息专业。</p>
+<p>&emsp;&emsp;热爱计算机和人工智能，励志成为一名资深程序员!</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 <p>&emsp;&emsp;长风破浪会有时，直挂云帆济沧海。我开始得太晚了，但总不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变...</p>
@@ -54,11 +54,11 @@
 
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— Now
+- Nothing &emsp; 📌 Now —— Now
   
-  - 工作岗位：实习生
-  - 工作内容：前端开发
-  - 工作方向：一站式数据治理与开发
+  - 工作岗位：Nothing
+  - 工作内容：Nothing
+  - 工作方向：Nothing
   
 
 </td>
@@ -72,11 +72,11 @@
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/archives/20230225' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
-* <a href='https://blog.sunguoqi.com/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
-* <a href='https://blog.sunguoqi.com/archives/chatgpt' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
-* <a href='https://blog.sunguoqi.com/archives/wechat_mp' target='_blank'>请接受像“屎”一样的开始</a> - 2023-01-27
-* <a href='https://blog.sunguoqi.com/archives/hello_2023' target='_blank'>再见，2022！你好，2023！</a> - 2023-01-26
+* <a href='http://t.csdn.cn/CeGWR' target='_blank'>解决pytorch当中RuntimeError: expected scalar type Double but found Float的问题。
+* <a href='http://t.csdn.cn/KEGtj' target='_blank'>解决IndexError: Target 11 is out of bounds.问题。
+* <a href='http://t.csdn.cn/uL2RO' target='_blank'>Python中list, numpy ,torch.Tensor之间格式相互转化。
+* <a href='http://t.csdn.cn/Oftg3' target='_blank'>pytorch独热编码。
+* <a href='http://t.csdn.cn/z8Gny' target='_blank'>汉诺塔程序
 <!-- END_SECTION:blog -->
 
 </td></tr>
