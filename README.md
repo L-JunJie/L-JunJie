@@ -223,7 +223,7 @@ Linux                    5 mins              ░░░░░░░░░░░�
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=L-JunJie&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
   </tr>
 </table>
 <!-- GitHub 数据统计 -->
@@ -233,8 +233,8 @@ Linux                    5 mins              ░░░░░░░░░░░�
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/L-JunJie/L-JunJie/assets/images/left.png" />&emsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=L-JunJie&theme=dark&hide_border=true" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/L-JunJie/L-JunJie/assets/images/right.png" />
+&emsp;<img width="130" src="https://cdn.jsdelivr.net/gh/L-JunJie/L-JunJie/assets/images/right.png" />
 
-  <img width="200%" src="https://cdn.jsdelivr.net/gh/L-JunJie/L-JunJie/assets/images/hr.gif" />
+  <img width="150%" src="https://cdn.jsdelivr.net/gh/L-JunJie/L-JunJie/assets/images/hr.gif" />
 
 <div align="center">
