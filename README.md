@@ -15,7 +15,7 @@
     <a href="https://blog.csdn.net/weixin_55191433?spm=1011.2124.3001.5343"><img src="https://img.shields.io/badge/CSDN-博客-blue" /></a>&emsp;
     <img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href='https://github.com/L-JunJie/L-JunJie/blob/main/assets/images/wx.jpg'><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/43-34-1-52"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
