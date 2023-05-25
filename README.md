@@ -57,7 +57,7 @@
   
 - Google Email：JunjieLiang85@gmail.com
   
-- WeChat: ljj1999-05-28
+- WeChat: <a href='https://1505213.ma3you.cn/articles/RmPKMMk/' target='_blank'>ljj1999-05-28
   
 - QQ Mail： 2307450801@qq.com
   
