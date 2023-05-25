@@ -91,11 +91,11 @@
 
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
-- Nothing &emsp; 📌 Now —— Now
+- 南京阿凡达机器人科技有限公司 &emsp; 📌 2023年4月12号 —— Now
   
-  - 工作岗位：Nothing
-  - 工作内容：Nothing
-  - 工作方向：Nothing
+  - 工作岗位：计算机视觉研发
+  - 工作内容：图像处理，目标检测等
+  - 工作方向：深度学习计算机视觉
   
 
 </td>
