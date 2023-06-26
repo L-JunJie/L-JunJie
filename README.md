@@ -197,9 +197,9 @@
 <img height="120px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=L-JunJie&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/L-JunJie/L-JunJie/assets/images/left.png" />&emsp;
+<img width="140" src="https://cdn.jsdelivr.net/gh/L-JunJie/L-JunJie/assets/images/left.png" />&emsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=L-JunJie&theme=dark&hide_border=true" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/L-JunJie/L-JunJie/assets/images/right.png" />
+&emsp;<img width="140" src="https://cdn.jsdelivr.net/gh/L-JunJie/L-JunJie/assets/images/right.png" />
 
   <img width="150%" src="https://cdn.jsdelivr.net/gh/L-JunJie/L-JunJie/assets/images/hr.gif" />
 
